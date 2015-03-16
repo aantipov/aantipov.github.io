@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Alexei Antipov's blog
+tagline:             'Another blog of an opinionated javascript developer'
+description:         'Alexei Antipov - a Full-Stack javascript developer from Russia.'
+url:                 http://blog.alexei.me
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Alexei Antipov
+  url:               http://alexei.me
+  email:             antipov.alexei@gmail.com
+
+# Custom vars
+version:             1.0.0
