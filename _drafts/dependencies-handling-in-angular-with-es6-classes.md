@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dependencies handling in angular with ES6 classes
+description: Our angular dependencies handling in ES6 classes differs from how we handle it in ES5. The post highlight some tips on how we can handle them in ES6 classes.
+keywords: angular, angularjs, javascript, ES6, ECMAScript Harmony, classes, controllers, Dependency injection, DI, services 
 ---
 
 ES6 gives us javascript devs a lot of new things and enhancements.
