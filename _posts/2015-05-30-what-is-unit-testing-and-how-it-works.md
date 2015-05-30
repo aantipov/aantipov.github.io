@@ -42,7 +42,7 @@ function loginUser(username, pass) {
 
   return server.login(username, pass)
     .then((result) => {
-        notify.success('Congrats! New user has been successfully created');
+        notify.success('Congrats! New user has been created');
         return result;
     })
     .catch((error) => {
