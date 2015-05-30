@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Alexei Antipov's blog
-tagline:             'Another blog of an opinionated javascript developer'
+tagline:             'Blog of an opinionated javascript developer'
 description:         'Alexei Antipov - a Full-Stack javascript developer from Russia.'
 url:                 http://blog.alexei.me
 baseurl:             /
