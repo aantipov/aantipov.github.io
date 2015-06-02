@@ -5,7 +5,6 @@ description: article describes importance of testing, existing approaches to tes
 keywords: angular, angularjs, javascript, testing, unit testing, end-to-end testing, karma, jasmine, TDD, test-driven development 
 ---
 
-## Building robust js apps is impossible without testing.
 With the raise of javascript use we can watch how js apps become bigger and bigger.
 For the last 5-10 years the complexity of javascript apps has increased enormously.
 Building of such apps is impossible without well-tuned testing process.
