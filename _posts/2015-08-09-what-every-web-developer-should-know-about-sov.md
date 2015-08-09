@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What every web developer should know about same-origin policy
-description: article describes what is same-origin policy, what it is for and how to use it to build robust web applications.
+description: article describes what same-origin policy is, what it is for and how to use it to build robust web applications.
 keywords: web, security, SOP, same-origin policy, origin, CORS, XMLHttpRequest, WebSocket
 ---
 
